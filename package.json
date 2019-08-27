@@ -1,0 +1,22 @@
+{
+  "name": "@lvannebenne/vcard",
+  "version": "1.0.0",
+  "description": "Personnal and Professionnal Vcard of Lindsay Vannebenne",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LVannebenne/vcard.git"
+  },
+  "keywords": [
+    "vcard"
+  ],
+  "author": "Lindsay Vannebenne",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LVannebenne/vcard/issues"
+  },
+  "homepage": "https://github.com/LVannebenne/vcard#readme"
+}
