@@ -1,6 +1,6 @@
 {
   "name": "@lvannebenne/vcard",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Personnal and Professionnal Vcard of Lindsay Vannebenne",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,15 @@
   "bugs": {
     "url": "https://github.com/LVannebenne/vcard/issues"
   },
-  "homepage": "https://github.com/LVannebenne/vcard#readme"
+  "homepage": "https://github.com/LVannebenne/vcard#readme",
+  "bin": {
+    "vcard": "./index.js"
+  },
+  "dependencies": {
+    "boxen": "^4.1.0",
+    "chalk": "^2.4.2",
+    "chalk-animation": "^1.6.0",
+    "figlet": "^1.2.3",
+    "gradient-string": "^1.2.0"
+  }
 }
