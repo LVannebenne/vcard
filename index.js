@@ -26,7 +26,7 @@ let col = rand();
 
 const text = [
     chalk.bold(gradient.atlas("          Lindsay Vannebenne")),
-    chalk.italic(gradient.atlas("          Junior Web Developper @ BeCode.org \n")),
+    chalk.italic(gradient.atlas("          Backend Developper @ EPIC Web Agency, Liège \n")),
     chalk.keyword(colors[col])("   Email: ") + gradient.morning("lindsay.vannebenne@gmail.com"),
     chalk.keyword(colors[col])("LinkedIn: ") + gradient.morning("https://www.linkedin.com/in/lvannebenne"),
     chalk.keyword(colors[col])("  GitHub: ") + gradient.morning("https://github.com/LVannebenne"),
@@ -50,8 +50,8 @@ const jobs =  [
     "2016/2016 - Trainee in IT shop and repair @ BeWan, Seraing ",
     "2018/2019 - Trainer/Animator in 'Espace Public Numérique'(EPN) @ CPAS Flémalle",
     "2018/2019 - Administrative worker - Reception Desk @ CPAS Flémalle",
-    "2019/2020 - Junior Web Developper @ BeCode Liège"
-
+    "2019/2020 - Junior Web Developper @ BeCode Liège",
+    "2019/Now  - Backend Developper @ EPIC Web Agency, Liège"
 ]
 
 const training = [

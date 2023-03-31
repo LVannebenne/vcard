@@ -4,7 +4,8 @@
   "description": "Personnal and Professionnal Vcard of Lindsay Vannebenne",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "./index.js"
   },
   "repository": {
     "type": "git",
@@ -23,10 +24,10 @@
     "vcard": "./index.js"
   },
   "dependencies": {
-    "boxen": "^4.1.0",
+    "boxen": "^4.2.0",
     "chalk": "^2.4.2",
     "chalk-animation": "^1.6.0",
-    "figlet": "^1.2.3",
+    "figlet": "^1.5.2",
     "gradient-string": "^1.2.0"
   }
 }
